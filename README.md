@@ -4,7 +4,7 @@
 
 **A Software Engineer and IoT Enthusiast**. I transitioned from Electronic Engineering to Software Engineering and recently completed the RevoU bootcamp in Jakarta, Indonesia, specializing in Full Stack Software Engineering covering both Back End and Front End development.
 
-I've had a tech and robotics background since my college days in 2016. My decision to explore Information Technology (IT) was influenced by my previous role in robot programming. I'm committed to staying up-to-date with the latest programming languages, frameworks, and tools to keep pace with the dynamic field of software engineering. You can connect with me here:
+I've had a tech and robotics background since my college days in 2016. I decided to explore Information Technology (IT) due to my previous job in programming. I am dedicated to staying up-to-date with the latest programming languages, frameworks, and tools to keep pace with the dynamic field of software engineering. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyuzasp/)](https://www.linkedin.com/in/alyuzasp/) [![Youtube Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.instagram.com/alyuzasp/) [![Gmail Badge](https://img.shields.io/badge/-alyuza.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyuza.dev@gmail.com)](mailto:alyuza.dev@gmail.com)
 
